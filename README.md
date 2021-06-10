@@ -46,8 +46,8 @@ Alternatively, if you'd rather make a one-off payment:
 - Donate by USA $ check from a USA bank:
   - Make check payable to "Software Freedom Conservancy, Inc." and place "Directed donation: Homebrew" in the memo field. Checks should then be mailed to:
     - Software Freedom Conservancy, Inc.
-      137 Montague ST  STE 380
-      BROOKLYN, NY 11201             USA
+      137 Montague ST STE 380
+      BROOKLYN, NY 11201 USA
 - Donate by wire transfer: contact accounting@sfconservancy.org for wire transfer details.
 
 Homebrew is a member of the [Software Freedom Conservancy](https://sfconservancy.org) which provides us with an ability to receive tax-deductible, Homebrew earmarked donations (and [many other services](https://sfconservancy.org/members/services/)). Software Freedom Conservancy, Inc. is a 501(c)(3) organization incorporated in New York, and donations made to it are fully tax-deductible to the extent permitted by law.
@@ -97,3 +97,5 @@ Homebrew is a member of the [Software Freedom Conservancy](https://sfconservancy
 Homebrew is generously supported by [Substack](https://github.com/substackinc), [GitHub](https://github.com/githubsponsors), [Randy Reddig](https://github.com/ydnar), [embark-studios](https://github.com/embark-studios), [Realist.ai](https://github.com/RealistAI) and many other users and organisations via [GitHub Sponsors](https://github.com/sponsors/Homebrew).
 
 [![Substack](https://github.com/substackinc.png?size=64)](https://github.com/substackinc)[![GitHub](https://github.com/githubsponsors.png?size=64)](https://github.com/githubsponsors)
+
+stuff and things
